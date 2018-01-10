@@ -1,0 +1,2 @@
+# deepFaceDetectRecog
+Here, I have demonstrated the use of Multi-task Cascaded Convolutional Neural Networks, [MTCCNN](https://github.com/xiangrufan/keras-mtcnn)  for deep face detection and [faceNet](https://arxiv.org/pdf/1503.03832.pdf) for encoding of the aligned faces. Recognition is then performed by matching the faces detected in the test images with the already enrolled or registered faces using euclidean distances.
